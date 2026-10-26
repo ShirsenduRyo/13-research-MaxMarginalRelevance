@@ -7,3 +7,6 @@ artifacts/*
 
 # UV Dependency files
 *.lock
+
+#3rd Party Repo
+MIMICS-Diversification/
